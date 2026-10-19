@@ -1,0 +1,6 @@
+message_id,message,expected_demo_category
+C-001,"Guaranteed loan approval! Pay a processing fee now to receive ₹2,00,000 instantly. No documents required.",Scam-like
+C-002,"Congratulations! Your loan is pre-approved. Pay an upfront release fee using this payment link to receive the money today.",Scam-like
+C-003,"Need money urgently? Get instant guaranteed credit without income proof. Transfer a small activation fee to proceed.",Scam-like
+C-004,"Your loan application has been received. Please check its status using your lender official app or website.",Likely safe
+C-005,"Your monthly loan installment is due on the 10th. Review your repayment schedule in the official banking app.",Likely safe

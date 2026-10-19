@@ -1,0 +1,5 @@
+﻿timestamp_utc,message_preview,label,risk_score,signal_count,signals
+2026-10-19T15:00:54+00:00,"“Dear customer, your monthly bank account statement is now available for review, and you can securely access it by opening your bank’s official mobile application or by visiting it",Scam-like,25,1,Credential or KYC request
+2026-10-19T15:03:31+00:00,"“Dear customer, your monthly bank account statement is now available for review. You can view your recent transactions, check your account balance, and download the statement by op",Likely safe,0,0,
+2026-10-19T15:05:56+00:00,"Congratulations! Your guaranteed loan of ₹2,00,000 has been approved instantly, and you can receive the money in your bank account today by paying a small processing fee in advance",Scam-like,64,3,Urgency or threat; Upfront payment / fee; Guaranteed loan or approval
+2026-10-19T15:05:56+00:00,"Dear customer, your monthly bank account statement is now available for review. You can view your recent transactions, check your account balance, and download the statement by ope",Likely safe,0,0,
